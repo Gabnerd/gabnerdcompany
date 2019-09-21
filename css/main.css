@@ -1,0 +1,15 @@
+nav{
+    text-align: center;
+}
+
+#banner{
+    background-color: indigo;
+    color: white;
+    text-align: center;
+    height: 120px;
+}
+
+nav li{
+    display: inline;
+    margin: 10%;
+}
